@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #b1b1b1; /* Dark background for the entire app */
 }
 
 .logo {
@@ -35,6 +36,7 @@
 
 .card {
   padding: 2em;
+  background-color: #7e7e7e; /* Slightly lighter dark background for cards */
 }
 
 .navbar-top {
@@ -44,9 +46,8 @@
   transform: translateX(-50%);
   width: auto;
   z-index: 1000;
+  background-color: #707070; /* Dark background for the navbar */
 }
-
-
 
 .read-the-docs {
   color: #888;
